@@ -1,0 +1,15 @@
+F:\SolutionTest\BornToDev\SortList\SortingTest1\bin\Debug\SortingTest1.exe.config
+F:\SolutionTest\BornToDev\SortList\SortingTest1\bin\Debug\SortingTest1.exe
+F:\SolutionTest\BornToDev\SortList\SortingTest1\bin\Debug\SortingTest1.pdb
+F:\SolutionTest\BornToDev\SortList\SortingTest1\obj\Debug\SortingTest1.csprojAssemblyReference.cache
+F:\SolutionTest\BornToDev\SortList\SortingTest1\obj\Debug\MainWindow.g.cs
+F:\SolutionTest\BornToDev\SortList\SortingTest1\obj\Debug\App.g.cs
+F:\SolutionTest\BornToDev\SortList\SortingTest1\obj\Debug\SortingTest1_MarkupCompile.cache
+F:\SolutionTest\BornToDev\SortList\SortingTest1\obj\Debug\SortingTest1_MarkupCompile.lref
+F:\SolutionTest\BornToDev\SortList\SortingTest1\obj\Debug\MainWindow.baml
+F:\SolutionTest\BornToDev\SortList\SortingTest1\obj\Debug\SortingTest1.g.resources
+F:\SolutionTest\BornToDev\SortList\SortingTest1\obj\Debug\SortingTest1.Properties.Resources.resources
+F:\SolutionTest\BornToDev\SortList\SortingTest1\obj\Debug\SortingTest1.csproj.GenerateResource.cache
+F:\SolutionTest\BornToDev\SortList\SortingTest1\obj\Debug\SortingTest1.csproj.CoreCompileInputs.cache
+F:\SolutionTest\BornToDev\SortList\SortingTest1\obj\Debug\SortingTest1.exe
+F:\SolutionTest\BornToDev\SortList\SortingTest1\obj\Debug\SortingTest1.pdb
